@@ -1,11 +1,4 @@
-1.Array
-2.object(key)
-3.summary
-4.this
-5.object(객체)
-6.Number(숫자열)
-
-1.Array[예습 문제풀이]
+Array[예습 문제풀이]
 
 1-1. border-left-width를 borderLeftWidth로 변경하기
 
@@ -227,3 +220,37 @@ alert(arr[1].name); // Mary
 alert(arr[2].name); // Pete
 
 //sort부분 이용
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1-7. 평균 나이 구하기
+let john = { name: "John", age: 25 };
+let pete = { name: "Pete", age: 30 };
+let mary = { name: "Mary", age: 29 };
+
+let arr = [ john, pete, mary ];
+
+alert( getAverageAge(arr) ); // (25 + 30 + 29) / 3 = 28
+
+<문제풀이>
+let john = { name: "John", age: 25 };
+let pete = { name: "Pete", age: 30 };
+let mary = { name: "Mary", age: 29 };
+
+let arr = [ john, pete, mary ];
+function getAverageAge(x) {
+   let y= x.reduce((sum, item, index) =>sum+item.age,0);    //reduce((이전계산값,item,index,array),초기값)이므로 계산값에 item.age부분을 더해줌 
+   return y/arr.length;
+}
+alert( getAverageAge(arr) );
+
+<answer(답)>
+function getAverageAge(users) {
+  return users.reduce((prev, user) => prev + user.age, 0) / users.length;
+}
+
+let john = { name: "John", age: 25 };
+let pete = { name: "Pete", age: 30 };
+let mary = { name: "Mary", age: 29 };
+
+let arr = [ john, pete, mary ];
+
+alert( getAverageAge(arr) ); // 28
