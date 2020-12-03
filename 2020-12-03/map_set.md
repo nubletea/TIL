@@ -72,3 +72,4 @@ keys.push("more");
 
 alert(keys); // name, more
 
+<img src="https://user-images.githubusercontent.com/71910560/101070158-4dd8d580-35de-11eb-9e38-385a54f863fc.jpg" width="500">
