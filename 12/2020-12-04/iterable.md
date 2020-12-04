@@ -188,4 +188,6 @@ let arr = Array.from(arrayLike); // (배열로 바꿔주는 부분)
 
 console.log(arr.pop()); // World (메서드가 제대로 동작함)
 
+<img src="https://user-images.githubusercontent.com/71910560/101174743-a0ba9780-3687-11eb-8920-f1cf0fcc2f8d.jpg" width="400">
+
 
