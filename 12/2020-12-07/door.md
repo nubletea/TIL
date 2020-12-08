@@ -58,7 +58,7 @@ script
     });
 ```
 
-perspective - 원근감을 주는 방법 (높을수록 멀리서 본다고 생각) 아래와 
+perspective - 원근감을 주는 방법 (높을수록 멀리서 본다고 생각) 아래와 같음
 
 <img src="https://user-images.githubusercontent.com/71910560/101449959-0ef3a880-396d-11eb-8257-76e8446a6a69.png" width="500">
 
