@@ -40,11 +40,11 @@ windows의 php다운로드 bitnami
 
 <img src="https://user-images.githubusercontent.com/71910560/101504475-9c0f1f80-39b6-11eb-93ef-0338a2374420.jpg" width="500">
 
-10. 다운로드중(꽤 오래 걸림...)
+10. next 클릭
 
 <img src="https://user-images.githubusercontent.com/71910560/101504565-b648fd80-39b6-11eb-8c52-52737dab5247.jpg" width="500">
 
-11. 다운로드 완료!
+11. 다운로드중(꽤 오래 걸림...)
 
 <img src="https://user-images.githubusercontent.com/71910560/101504742-ed1f1380-39b6-11eb-9f9e-ca07b8f6ddb3.jpg" width="500">
 
