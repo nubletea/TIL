@@ -52,6 +52,6 @@ windows의 php다운로드 bitnami
 
 <img src="https://user-images.githubusercontent.com/71910560/101506561-e09bba80-39b8-11eb-8de5-e7258eb10f41.jpg" width="500">
 
-13. index.php 파일을 만들고 <?php phpinfo(); ?>입력 후 127.0.0.1/index.php 검색(밑처럼 나오면 설치가 잘된거임 안될경우 에러부분 참조)
+13. index.php 파일을 만들고 '<?php phpinfo(); ?>'입력 후 127.0.0.1/index.php 검색(밑처럼 나오면 설치가 잘된거임 안될경우 에러부분 참조)
 
 <img src="https://user-images.githubusercontent.com/71910560/101507081-83eccf80-39b9-11eb-829d-5fa007867c22.jpg" width="500">
